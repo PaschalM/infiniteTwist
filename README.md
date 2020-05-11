@@ -13,4 +13,4 @@ Copy the infiniteTwist.mll to the MAYA_PLUG_IN_PATH
 Windows: Program Files\Autodesk\MayaXXXX\bin\plug-ins\ 
 
 //In progress
-Compatible version: maya2020 
+Compatible version: maya2020 # infiniteTwist
