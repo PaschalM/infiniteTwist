@@ -10,6 +10,7 @@ Division attributes and relevant ratio features for output segments are addition
 ## Installation
 
 Copy the infiniteTwist.mll to the MAYA_PLUG_IN_PATH
+dose
 Windows: Program Files\Autodesk\MayaXXXX\bin\plug-ins\ 
 
 //In progress
